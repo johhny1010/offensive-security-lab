@@ -1,4 +1,4 @@
-# JT Offensive Security Lab
+# Offensive Security Lab
 
 **Proxmox · Kali Linux · Network assessment · Web application testing · Evidence and retesting**
 
